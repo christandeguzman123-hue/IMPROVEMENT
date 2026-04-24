@@ -121,6 +121,8 @@ internal sealed class RentalManagementForm : Form
             CreateLabeledInput("End Date", _rentalEnd),
             _openEndedRental,
             CreateButton("Create Rental", (_, _) => CreateRental()),
+            CreateButton("Approve Selected", (_, _) => ApproveSelectedRental()),
+            CreateButton("Set Pending", (_, _) => SetSelectedRentalPending()),
             CreateButton("Mark Selected Returned", (_, _) => MarkRentalReturned())
         });
 
@@ -338,6 +340,38 @@ internal sealed class RentalManagementForm : Form
         {
             _repository.MarkRentalReturned(id);
             RefreshAll();
+        });
+    }
+
+    private void ApproveSelectedRental()
+    {
+        if (!TryGetSelectedId(_rentalsGrid, out long id))
+        {
+            MessageBox.Show("Select a rental row first.", "Validation", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            return;
+        }
+
+        RunSafe(() =>
+        {
+            _repository.UpdateRentalStatus(id, "Approved");
+            RefreshRentals();
+            RefreshReports();
+        });
+    }
+
+    private void SetSelectedRentalPending()
+    {
+        if (!TryGetSelectedId(_rentalsGrid, out long id))
+        {
+            MessageBox.Show("Select a rental row first.", "Validation", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            return;
+        }
+
+        RunSafe(() =>
+        {
+            _repository.UpdateRentalStatus(id, "Pending");
+            RefreshRentals();
+            RefreshReports();
         });
     }
 

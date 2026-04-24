@@ -1,0 +1,64 @@
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.csproj.AssemblyReference.cache
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.Business.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.BusinessSystem.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.ClientPortalForm.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.Form1.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.Form2.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.RentalBusiness.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.RentalManagementForm.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.RentalSystem.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.Resources.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.SystemBusiness.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.SystemBusinessRental.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental_Business_System.SystemRental.resources
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.csproj.GenerateResource.cache
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.AssemblyInfoInputs.cache
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.AssemblyInfo.cs
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.csproj.CoreCompileInputs.cache
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.sourcelink.json
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Rental Business System.exe
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Rental Business System.deps.json
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Rental Business System.runtimeconfig.json
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Rental Business System.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Rental Business System.pdb
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental B.FBD6A404.Up2Date
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\refint\Rental Business System.dll
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.pdb
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\Rental Business System.genruntimeconfig.cache
+C:\Users\sheil\PROGRAMMING_PROJECTS\IMPROVEMENT\obj\Debug\net10.0-windows\ref\Rental Business System.dll

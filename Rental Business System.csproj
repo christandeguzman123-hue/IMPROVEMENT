@@ -36,4 +36,11 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Rental-Business-Website\**\*.cs" />
+    <Compile Remove="Rental Business System.AssemblyInfo.cs" />
+    <EmbeddedResource Remove="Rental-Business-Website\**\*" />
+    <None Remove="Rental-Business-Website\**\*" />
+  </ItemGroup>
+
 </Project>
